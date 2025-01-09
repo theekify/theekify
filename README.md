@@ -13,4 +13,4 @@ You can find me on these platforms:
 
 ---
 
-![Custom Avatar or Illustration](https://octodex.github.com/setuptocat/)
+![Custom Avatar or Illustration](https://octodex.github.com/images/front-end-conftocat.png)
