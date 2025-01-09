@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning Python, C#, Java<br>💬 @theek.aka (Instagram)
+🔭 I’m currently working on a ui project <br>🌱 I’m currently learning Python, C#, Java<br>💬 @theek.aka (Instagram)
 
 
 ## 🌐 Socials:
