@@ -1,7 +1,9 @@
 <h1>Hey, I'm Theekshana! 👋</h1>
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://octodex.github.com/images/front-end-conftocat.png" width="200" style="margin-right: 20px;" />
+<div style="display: flex; align-items: flex-start; border: none;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="https://octodex.github.com/images/front-end-conftocat.png" width="200" style="border: none;" />
+  </div>
   <div>
     <p>
       I'm a <strong>software engineering undergrad</strong> passionate about technology and coding.  
