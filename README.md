@@ -1,10 +1,10 @@
 <h1>Hey, I'm Theekshana! 👋</h1>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="margin-right: 20px;">
     <img src="https://octodex.github.com/images/front-end-conftocat.png" width="200" />
   </div>
-  <div style="flex: 2; padding-left: 20px;">
+  <div>
     <p>
       I'm a <strong>software engineering undergrad</strong> passionate about technology and coding.  
       I enjoy working on innovative <strong>UI projects</strong> and expanding my programming skills by diving deep into <strong>Python</strong>, <strong>C#</strong>, and <strong>Java</strong>. 🚀  
@@ -19,3 +19,4 @@
     </ul>
   </div>
 </div>
+
