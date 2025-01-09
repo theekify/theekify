@@ -1,21 +1,12 @@
-<h1>Hey, I'm Theekshana! 👋</h1>
+# Hey, I'm Theekshana! 👋
 
-<div style="display: flex; align-items: flex-start; border: none;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="https://octodex.github.com/images/front-end-conftocat.png" width="200" style="border: none;" />
-  </div>
-  <div>
-    <p>
-      I'm a <strong>software engineering undergrad</strong> passionate about technology and coding.  
-      I enjoy working on innovative <strong>UI projects</strong> and expanding my programming skills by diving deep into <strong>Python</strong>, <strong>C#</strong>, and <strong>Java</strong>. 🚀  
-    </p>
-    <p>
-      Feel free to connect with me to chat about tech, coding, or anything else!  
-    </p>
-    <h2>✨ Connect with Me! 🚀✨</h2>
-    <ul>
-      <li><a href="https://www.instagram.com/yourusername"><strong>Instagram</strong></a></li>
-      <li><a href="https://www.linkedin.com/in/yourusername"><strong>LinkedIn</strong></a></li>
-    </ul>
-  </div>
-</div>
+## About Me
+- 👨‍🎓 I'm an undergrad studying software engineering.
+- 💻 Currently working on some **UI projects**.
+- 📚 Expanding my programming skills by diving deep into **Python**, **C#**, and **Java**.
+- 🧑‍💼 Interested in **AI** and **machine learning**.
+- 🎨 Love experimenting with **new tech** and **creative coding**.
+
+## Socials
+- 📸 [Instagram](https://www.instagram.com/theek.aka)
+- 💼 [LinkedIn](https://www.linkedin.com/in/theek)
