@@ -13,10 +13,6 @@
 
 <h2>✨ Connect with Me! 😊✨</h2>
 
-<p>
-  You can find me on these platforms:  
-</p>
-
 <ul>
   <li><a href="https://www.instagram.com/yourusername"><strong>Instagram</strong></a></li>
   <li><a href="https://www.linkedin.com/in/yourusername"><strong>LinkedIn</strong></a></li>
