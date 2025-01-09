@@ -11,8 +11,6 @@
 
 <img align="right" src="https://octodex.github.com/images/front-end-conftocat.png" width="250" />
 
----
-
 <h2>✨ Connect with Me! 😊✨</h2>
 
 <p>
