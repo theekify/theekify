@@ -9,4 +9,4 @@
 
 ## Socials
 - 📸 [Instagram](https://www.instagram.com/theek.aka)
-- 💼 [LinkedIn](https://www.linkedin.com/in/theek)
+- 💼 [LinkedIn](https://www.linkedin.com/in/theek) 
