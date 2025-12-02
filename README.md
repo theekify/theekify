@@ -2,7 +2,7 @@
 
 ## About Me
 - 👨‍🎓 I'm an undergrad studying software engineering.
-- 💻 Currently working on some **UI projects**.
+- 💻 Currently working on some **ML projects**.
 - 📚 Expanding my programming skills by diving deep into **Python**, **C#**, and **Java**.
 - 🧑‍💼 Interested in **AI** and **machine learning**.
 - 🎨 Love experimenting with **new tech** and **coding**.
